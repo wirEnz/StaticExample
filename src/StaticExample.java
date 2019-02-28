@@ -27,6 +27,9 @@ public class StaticExample {
 		System.out.println("Mary's fee: " + maryAccount.fee);
 		
 		System.out.println(johnAccount.personName + " " +johnAccount.accountNumber + " " + Account.fee + " " + johnAccount.balance);
+		
+		
+		//test for github
 	}
 }
 

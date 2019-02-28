@@ -1,11 +1,9 @@
 
 public class Account {
 	
-	public Account(String string, int i, double d) {
+	public Account(String personName, int accountNumber, double balance) {
 		
-	} 
-		// TODO Auto-generated constructor stub
-	
+	}
 	public String personName;		// Name
 	public int accountNumber;		// Number
 	public static double fee;		// Monthly account fee
